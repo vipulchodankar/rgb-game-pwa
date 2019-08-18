@@ -6,10 +6,6 @@ h1{
     color: #fff;
 }
 
-span{
-    color: #fff;
-}
-
 #container{
     max-width: 600px;
     margin: 0 auto;
@@ -21,4 +17,10 @@ span{
     padding-bottom: 30%;
     float: left;
     margin: 1.66%
+}
+
+#bar{
+    background-color: #fff;
+    height: 30px;
+    text-align: center;
 }
