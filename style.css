@@ -22,7 +22,7 @@ h1{
 
 .square{
     width: 30%;
-    background: purple;
+    background: #212121;
     padding-bottom: 30%;
     float: left;
     margin: 1.66%;
@@ -68,4 +68,5 @@ button:hover{
 #message{
     display: inline-block;
     width: 20%;
+    text-transform: uppercase;
 }
