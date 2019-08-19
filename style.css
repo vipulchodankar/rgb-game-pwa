@@ -81,4 +81,27 @@ button:hover{
     display: inline-block;
     width: 25%;
     text-transform: uppercase;
+    font-weight: 600;
+}
+
+#reset{
+    width: 25%;
+}
+
+.gameMode{
+    width: 10%;
+}
+
+@media only screen and (max-width: 600px) {
+    #message{
+        width: 45%;
+    }
+
+    #reset{
+        width: 45%;
+    }
+
+    .gameMode{
+        width: 20%;
+    }
 }
