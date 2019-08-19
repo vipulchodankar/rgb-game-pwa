@@ -1,14 +1,23 @@
 body{
     background-color: #212121;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 h1{
     color: #fff;
+    text-align: center;
+    background-color: #0069FF;
+    margin: 0 auto;
+    text-transform: uppercase;
+    font-weight: normal;
+    line-height: 1.1;
+    padding: 15px 0;
 }
 
 #container{
     max-width: 600px;
-    margin: 0 auto;
+    margin: 10px auto;
 }
 
 .square{
@@ -16,7 +25,11 @@ h1{
     background: purple;
     padding-bottom: 30%;
     float: left;
-    margin: 1.66%
+    margin: 1.66%;
+    border-radius: 10%;
+    transition: background 0.6s;
+    -webkit-transition: background 0.6s;
+    -moz-transition: background 0.6s;
 }
 
 #bar{
@@ -26,5 +39,33 @@ h1{
 }
 
 .selected{
-    background-color: aqua;
+    color: #fff;
+    background-color: #0069FF;
+}
+
+#colorDisplay{
+    font-size: 150%;
+}
+
+button{
+    border: none;
+    background: none;
+    text-transform: uppercase;
+    height: 100%;
+    font-weight: 700;
+    color: #0069FF;
+    letter-spacing: 1px;
+    font-size: inherit;
+    transition: all 0.4s;
+    outline: none;
+}
+
+button:hover{
+    color: #fff;
+    background-color: #0069FF;
+}
+
+#message{
+    display: inline-block;
+    width: 20%;
 }
