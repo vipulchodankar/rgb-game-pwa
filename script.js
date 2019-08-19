@@ -22,11 +22,14 @@ function initModeButtons(){
         gameModeButtons[i].addEventListener("click", function(){
             gameModeButtons[0].classList.remove("selected");
             gameModeButtons[1].classList.remove("selected");
+            gameModeButtons[2].classList.remove("selected");
             this.classList.add("selected");
             if(this.textContent === "Easy"){
                 numSquares = 3;
-            } else {
+            } else if(this.textContent === "Hard") {
                 numSquares = 6;
+            } else {
+                numSquares = 9;
             }
 
             reset();
