@@ -1,0 +1,20 @@
+{
+  "name": "rgb-color-game-app",
+  "version": "1.0.0",
+  "description": "RGB Color Game.",
+  "main": "workbox-config.js",
+  "scripts": {
+    "serve": "http-server -p 6969 -c-1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vipulchodankar/rgb-color-game-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vipulchodankar/rgb-color-game-app/issues"
+  },
+  "homepage": "https://github.com/vipulchodankar/rgb-color-game-app#readme"
+}
