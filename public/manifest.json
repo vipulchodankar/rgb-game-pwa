@@ -2,7 +2,7 @@
     "name": "RGB Game PWA",
     "short_name": "RGB Game",
     "theme_color": "#212121",
-    "background_color": "#0069FF",
+    "background_color": "#212121",
     "display": "standalone",
     "Scope": "/",
     "start_url": "/",
