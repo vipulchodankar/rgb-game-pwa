@@ -1,8 +1,6 @@
-# rgb-game-pwa
+# RGB Color Game
 
-<h1>RGB Color Game</h1>
-
-# how-to-play
+## How to Play
 
 What is RGB? RGB stands for “Red Green Blue” and is an additive color model in which red, green and blue light are added together in various ways to reproduce a broad array of colors. The name of the model comes from the initials of the three additive primary colors, red, green, and blue.
 
@@ -17,7 +15,7 @@ And so on, the values of each component, going from 0 to 255 together form a col
 
 <a href="https://jsndesign.co.uk/blog/javascript-rgb-hex-color-game/">Complete guide</a>
 
-# Features:
+## Features:
 1. PWA!
 2. 3 Difficulty modes
 3. Simple UI
