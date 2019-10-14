@@ -13,7 +13,9 @@ And so on, the values of each component, going from 0 to 255 together form a col
 
 
 ## How to Play
-Will add instructions to play the game soon
+Depending on the game mode (easy/hard) you are given 3/9 sets of colored boxes. You have to guess which box the randomly generated RGB Color at the top is represented in.
+
+
 
 <a href="https://jsndesign.co.uk/blog/javascript-rgb-hex-color-game/">Complete guide</a>
 
