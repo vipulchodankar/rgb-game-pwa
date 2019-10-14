@@ -1,3 +1,5 @@
+![Website](https://img.shields.io/website?down_message=Down&label=Website&up_message=Online&url=https%3A%2F%2Frgb-game-pwa.web.app%2F)
+![License](https://img.shields.io/github/license/vipulchodankar/rgb-game-pwa?label=License)
 # RGB Color Game
 
 What is RGB? RGB stands for “Red Green Blue” and is an additive color model in which red, green and blue light are added together in various ways to reproduce a broad array of colors. The name of the model comes from the initials of the three additive primary colors, red, green, and blue.
